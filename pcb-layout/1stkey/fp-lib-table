@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/keebs.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name Capacitor_SMD)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/Capacitor_SMD.pretty)(options "")(descr ""))
+  (lib (name Crystal)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/Crystal.pretty)(options "")(descr ""))
+  (lib (name Resistor_SMD)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/Resistor_SMD.pretty)(options "")(descr ""))
+  (lib (name Package_QFP)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/Package_QFP.pretty)(options "")(descr ""))
+  (lib (name Button_Switch_SMD)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/Button_Switch_SMD.pretty)(options "")(descr ""))
+  (lib (name Diode_SMD)(type KiCad)(uri /home/apinheiro/tocnoc/mechanical-keyboard/pcb-layout/footprint/Diode_SMD.pretty)(options "")(descr ""))
+)
